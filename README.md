@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-
 Introduction
 🔭 Welcome to my GitHub repository! I'm in my 40s and making an exciting career transition into software development. Having served as a lecturer, senior lecturer, and manager in Computing Further Education for over 20 years, I bring a wealth of experience in the field of education and technology. This repository will document my journey as I venture into the world of software development with a focus on Selenium, Java, Cypress, and JavaScript.
 
@@ -47,4 +43,4 @@ Michael Griffiths
 mickg77@hotmail.com
 https://www.linkedin.com/in/michael-griffiths77/
 
--->
+
